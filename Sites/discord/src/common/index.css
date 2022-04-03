@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'discord-1';
+    src: url(../assets/fonts/discord-1.woff);
+}
+
+@font-face {
+    font-family: 'discord-2';
+    src: url(../assets/fonts/discord-2.woff);
+}
+
+@font-face {
+    font-family: 'discord-3';
+    src: url(../assets/fonts/discord-3.woff);
+}
+
+@font-face {
+    font-family: 'discord-4';
+    src: url(../assets/fonts/discord-4.woff2);
+}
+
+@font-face {
+    font-family: 'discord-5';
+    src: url(../assets/fonts/discord-5.woff2);
+}
+
+* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+a, a:active, a:visited, a:link {
+    text-decoration: none;
+    display: inline-block;
+    color: inherit;
+}
+
+body {
+    background-color: #000;
+}

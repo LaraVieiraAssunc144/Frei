@@ -1,0 +1,59 @@
+.page-container {
+    display: flex;
+    flex-direction: column;
+}
+.uhum {
+    display: flex;
+    flex-direction: row;
+}
+
+.texto{
+    font-family: 'fonte1';
+}
+.cabofrio {
+    background-color: #BC1A6E;
+    color: #fff;
+    border-spacing: 123em;
+}
+.arraialdocabo {
+    background-color: #D93B30;
+    color: #fff;
+    border-spacing: 123em;
+}
+
+.riodejaneiro{
+    background-color: #DE3151;
+    color: #fff;
+    border-spacing: 123em;
+}
+
+.mangaratiba {
+    background-color: #CC2D4A;
+    color: #fff;
+    border-spacing: 123em;
+}
+
+
+.imgcabofrio{
+   height: 208px;
+   width: 312px;
+}
+
+.imgarraialdocabo {
+    height: 208px;
+    width: 312px;
+}
+
+.imgriodejaneiro {
+    height: 208px;
+    width: 312px; 
+}
+
+.imgmangaratiba {
+    height: 208px;
+    width: 312px;
+}
+
+.h1 {
+    font-family: 'fonte1';
+}

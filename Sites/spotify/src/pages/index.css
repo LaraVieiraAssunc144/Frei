@@ -1,0 +1,49 @@
+.faixa {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #2941ab;
+    background-image: url("../assets/images/bursts.svg");
+    background-size: 170%;
+    background-position: 45% 10%;
+    height: 100vh;
+}
+
+.titulo {
+    font-family: 'Circular-Bold';
+    font-size: 9.5em;
+    color: #1ed760;
+
+    line-height: -1vh;
+    margin-bottom: 1em;
+
+    width: 7em;
+    text-align: center;
+    letter-spacing: -5px;
+}
+
+.subtitulo {
+    font-family: 'Circular-Black';
+    font-size: 1em;
+    color: #1ed760;
+
+    margin-bottom: 1em;
+    margin-top: -9em;
+}
+
+.botao {
+    font-family: 'Circular-Book';
+    font-size: 1em;
+    color: #2941ab;
+    background-color: #1ed760;
+    border-radius: 2em;
+    padding: 1em 1.7em;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.botao:hover {
+    background-color: #1ed760;
+    transform: scale(1.0.5);
+}

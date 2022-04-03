@@ -1,0 +1,82 @@
+.page {
+    background-color: #2941ab;
+}
+.cabeçalho {
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    
+    color: #fff;
+}
+.botoescabe {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.texto1 {
+    font-size: 156px;
+    color: #1ed760;
+    text-align: center;
+    font-family: 'black';
+    letter-spacing: 0px;
+}
+
+.textao {
+    
+    color: #1ed760;
+    text-align: center;
+    font-family: 'Book';
+}
+
+.fundo {
+    background-image: url(../assets/images/fundo.svg);
+    background-position: 46% 4%;
+    background-size: 175%;
+    justify-content: center;
+}
+
+.botao {
+    padding: 14px 32px;
+    text-align: center;
+    bottom: 70px 20px;
+    background-color: #1ed760;
+    font-family: 'black';
+    color: #2941ab;
+}
+
+.logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
+
+.page-2 {
+    display: flex;
+    background-color: black;
+}
+
+.caixas {
+    display: flex;
+    flex-direction: row;
+}
+.apps{
+    width: 40px;
+    height: 40px;
+    justify-content: flex-end;
+    display: flex;
+    flex-direction: row;
+    color: #fff;
+}   
+    
+.bt{
+    color: #ffffff;
+}
+
+.caixass {
+    display: flex;
+    flex-direction: row;
+}
+.h6 {
+    color: #5e5e5e;
+}

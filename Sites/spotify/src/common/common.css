@@ -1,0 +1,26 @@
+
+@font-face {
+    font-family: 'Circular-Bold' ;
+    src: url( "../assets/fonts/CircularSpUIv3T-Bold.woff2" );
+}
+
+@font-face {
+    font-family: 'Circular-Black';
+    src: url("../assets/fonts/CircularSpUIv3T-Black.woff2");
+}
+
+@font-face {
+    font-family: 'Circular-Book';
+    src: url("../assets/fonts/CircularSpUIv3T-Book.woff2");
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+a, a:visited, a:active, a:link {
+    text-decoration: none;
+    color: inherit;
+    display: inline-block;
+}

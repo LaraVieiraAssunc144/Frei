@@ -1,0 +1,15 @@
+@font-face {
+    font-family:black ;
+    src: url(../assets/fonts/Black\ \(1\).woff2);
+}
+@font-face {
+    font-family: bold ;
+    src: url(../assets/fonts/Bold\ \(1\).woff2);
+}
+@font-face {
+    font-family: Book ;
+    src: url(../assets/fonts/CircularSpUIv3T-Book\ \(1\).woff2);
+}
+body{
+    margin: 0px;
+}

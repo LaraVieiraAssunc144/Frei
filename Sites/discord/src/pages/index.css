@@ -1,0 +1,218 @@
+.page-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.faixa-2 {
+    display: flex;
+    flex-direction: row;
+
+    justify-content: center;
+    padding: 8em 0em;
+    background-color: #fff;
+}
+
+.faixa-2 > * {
+    margin: 0em 2em;
+}
+
+.f2-textos {
+    display: flex;
+    flex-direction: column;
+
+    width: 23em;
+}
+
+.f2-titulo {
+    font-family:"discord5";
+    font-size: 3em;
+    color: #000;
+    line-height: 1.2em;
+}
+
+.f2-descricao {
+    font-family: "discord-1";
+    font-size: 1.2em;
+    color: #000;
+    line-height: 1.5em;
+}
+
+.faixa-3 {
+    display: flex;
+    flex-direction: row-reverse;
+
+    justify-content: center;
+    padding: 8em 0em;
+    background-color: #f8f8f8;
+}
+
+.faixa-3 > * {
+    margin: 0em 2em;
+}
+
+.f3-textos {
+    display: flex;
+    flex-direction: column;
+
+    width: 23em;
+}
+
+.f3-titulo {
+    font-family: "discord-5";
+    font-size: 3em;
+    color: #000;
+    line-height: 1.2em;
+}
+
+.f3-descricao {
+    font-family: "discord-1";
+    font-size: 1.2em;
+    color: #000;
+    line-height: 1.5em;
+}
+
+.faixa-4 {
+    display: flex;
+
+    justify-content: center;
+    padding: 8em 0em;
+    background-color: #fff;
+}
+
+.faixa-4 > * {
+    margin: 0em 2em;
+}
+
+.f4-textos {
+    display: flex;
+    flex-direction: column;
+
+    width: 23em;
+}
+
+.f4-titulo {
+    font-family: "discord-5";
+    font-size: 3em;
+    color: #000;
+    line-height: 1.2em;
+    margin-bottom: 0.25em;
+}
+
+.f4-descricao {
+    font-family: "discord-1";
+    font-size: 1.2em;
+    color: #000;
+    line-height: 1.5em;
+}
+
+.faixa-5 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+    justify-content: center;
+    padding: 8em 0em;
+    background-color: #f8f8f8;
+
+}
+
+.faixa-5 > * {
+    margin: 0em 2em;
+   
+}
+
+.f5-textos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    width: 23em;
+}
+
+.f5-titulo {
+    font-family: "discord-4";
+    font-size: 3em;
+    color: #000;
+    line-height: 1.2em;
+    margin-bottom: 0.25em;
+    align-items: center;
+    width: 20em;
+}
+
+.f5-descricao {
+    font-family: "discord-1";
+    font-size: 1.2em;
+    color: #000;
+    line-height: 1.5em;
+    align-items: center;
+    width: 50em;
+}
+
+.f5-conexao {
+    transform: scale(1.4,1.4);
+    margin-top: 5em;
+    
+}
+
+.f5-brilho {
+    margin-top: 8em;
+    font-family: "discord5";
+    font-size: 1.3em;
+}
+
+.f5-botao {
+    margin-left: 80em;
+   max-width: 9em;
+    font-size: 14px;
+   padding: 7px 7px ;
+    background-color: #5865f2;
+    cursor: pointer;
+    border-radius: 30px;
+    color: #fff;
+    font-family: 'discord3';
+
+}
+
+.rodapé {
+    display: flex;
+    flex-direction: column;
+    background-color: #000;
+ 
+    
+}
+
+.r-titulo {
+    background-color: #000000;
+    font-family: "discord-1";
+    display: flex;
+    flex-direction: column;
+    color: #5865f2;
+}
+
+.produtos {
+    color: #fff; 
+    
+
+}
+
+.empresa {
+    color: #fff;
+
+}
+
+.recursos {
+    color: #fff;
+}
+
+.politica {
+    color: #fff;
+}
+
+.paragrafo {
+    color: #5865f2;
+}
+
+.paragrafo2 {
+    color: #5865f2;
+}
